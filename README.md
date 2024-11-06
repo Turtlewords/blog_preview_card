@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Turtlewords/blog_preview_card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://turtlewords.github.io/blog_preview_card/
 
 ## My process
 
